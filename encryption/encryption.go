@@ -1,10 +1,9 @@
-// encryption/encryption.go
 package encryption
 
 import (
-    "os"
     "crypto/tls"
     "crypto/x509"
+	"os"
     "vpn-server/config"
 )
 

@@ -1,4 +1,3 @@
-// authentication/authentication.go
 package authentication
 
 import (
